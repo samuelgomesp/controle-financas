@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+    <title>Minhas Finanças</title>
+</head>
+<body>
+  <h1>Minhas Finanças $</h1>
+  <main>
+    <section id="sectionbalance" class="section">
+      <form>
+        <h2>Nova Transação</h2>
+        <input type="hidden" id="id" name="id">
+        <label for="name">Nome:</label>
+        <input type="text" id="name" name="name">
+        <br><br>
+        <label for="amount">Valor:</label>
+        <input type="number" step="0.01" id="amount" name="amount">
+        <br><br>
+        <button>Salvar</button>
+      </form>
+      <div id="resultbalance">
+        <h2>Total: <span id="balance"></span></h2>
+        <h2>Histórico de Transações</h2>
+        <section id="transactions"></section>
+      </div>
+    </section>
+  </main>
+
+  <script src="index.js"></script>
+    
+</body>
+</html>
