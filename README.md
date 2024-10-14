@@ -14,6 +14,7 @@ Este é um projeto no qual desenvolvi uma página para auxiliar o controle de fi
 - Registrar saldos e gastos
 - Editar valores
 - Excluir valores
+- Cálculo do balanço
 
 ## Tecnologias utilizadas 
 <div align="center"> 
