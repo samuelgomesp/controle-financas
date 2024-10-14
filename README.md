@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um projeto no qual desenvolvi uma página para auxiliar o controle de finanças, podendo ser usada por exemplo para controle de gastos do mês, tem campos onde podem ser inseridos valores tanto positivos quanto negativos, os valores podem ser editados e excluídos também. No final é feito o balanço do saldo restante (saldo - gastos).
+Este é um projeto no qual desenvolvi uma página para auxiliar o controle de finanças, podendo ser usada por exemplo para controle de gastos do mês, tem campos onde podem ser inseridos valores tanto positivos quanto negativos, os valores podem ser editados e excluídos também. No final é feito o balanço do saldo restante (ganhos - gastos).
 
 
 <div align="center">
