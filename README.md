@@ -34,7 +34,7 @@ Foi utilizado no projeto a biblioteca JSON.server no qual ele depende, essa bibl
 
 Execute para instalação da biblioteca 
 ```bash 
-npm install json.server
+npm install json-server
 ```
 Antes de rodar o código no navegador execute ```npm run serve``` no terminal, este comando está configurado no package.json para inicializar o json server
 
