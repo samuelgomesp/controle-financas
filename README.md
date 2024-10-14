@@ -1,4 +1,4 @@
-# Projeto Página de Controle de Finanças
+# Página de Controle de Finanças
 
 ## Descrição
 
